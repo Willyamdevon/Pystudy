@@ -30,15 +30,10 @@ header {
     width: 100vw;
 }
 footer {
-    
-    /* position: sticky; */
     background-color: #373738;
-    padding: 10px 0;
-    /* margin-top: 80px; */
+    padding: 12px 0;
     font-size: 20px;
-    /* position: sticky; */
-    top: 100%;
-    /* width: 99vw; */
+    top: 95%;
     margin-top: 20px;
     width: 100vw;
 }
